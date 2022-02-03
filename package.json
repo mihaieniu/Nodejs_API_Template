@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_api_template",
+  "version": "1.0.0",
+  "description": "API Template written in Node.js with MongoDB ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihaieniu/Nodejs_API_Template.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "express"
+  ],
+  "author": "Mihai Eniu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihaieniu/Nodejs_API_Template/issues"
+  },
+  "homepage": "https://github.com/mihaieniu/Nodejs_API_Template#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
